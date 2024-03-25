@@ -1,2 +1,0 @@
-# spotfy-clone
-spotfy-clone
